@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vandana Rathod</h1>
 <h3 align="center">🔗 I'm passionate full Front-end developer using React as a framework,I have a good knowledge about the Front End field.Seek a Progressive organization that provide an opportunity to capitalize on my technical skills.</h3>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-- 🌱 I’m currently learning React
+🌱 I’m currently learning React,Mongodb
 
-- 💬 Ask me about **js,React**
+
 
 
 <p align="left">
