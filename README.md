@@ -18,9 +18,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
-<br/>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vandana915&show_icons=true&locale=en&layout=compact" alt="vandana915" /></p>
-<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vandana915&show_icons=true&locale=en" alt="vandana915" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vandana915&" alt="vandana915" /></p>
