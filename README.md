@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vandana Rathod</h1>
 <h3 align="center">I'm passionate full Front-end developer using React as a framework,I have a good knowledge about the Front End field.Seek a Progressive organization that provide an opportunity to capitalize on my technical skills.</h3>
+<br>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-
-- 🌱 I’m currently learning **React.js , MonagoDB**
+🌱 I’m currently learning **React.js , MonagoDB**
 
 <p align="left">
 </p>
@@ -20,11 +20,9 @@
 
 <br/>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vandana915&show_icons=true&locale=en" alt="vandana915" /></p>
-
-<br/>
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vandana915&show_icons=true&locale=en&layout=compact" alt="vandana915" /></p>
+<div style="flex">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vandana915&show_icons=true&locale=en" alt="vandana915" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vandana915&show_icons=true&locale=en&layout=compact" alt="vandana915" /></p></div>
 
 
 
