@@ -19,10 +19,14 @@
 </p>
 
 <br/>
-<br/>
-<div style="flex">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vandana915&label=Profile%20views&color=0e75b6&style=flat" alt="vandana915" /> </p>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vandana915&show_icons=true&locale=en" alt="vandana915" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vandana915&" alt="vandana915" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vandana915&show_icons=true&locale=en&layout=compact" alt="vandana915" /></p></div>
+
 
 
 
